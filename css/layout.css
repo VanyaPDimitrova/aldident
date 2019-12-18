@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(31, 78, 66, 0.1);
+}
+
+.main {
+    max-width: 75em;
+    margin: 0 auto;
+}
+
+.main-header nav {
+    display: inline-block;
+    width: 69%;
+    vertical-align: top;
+}   
+
+.main-main {
+    display: inline-block;
+    width: 69%;
+}
+
+.main-sidebar {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+
+.entry {
+    padding: 0 1.5em;
+}

@@ -1,0 +1,19 @@
+.main-header {
+    max-width: 100em;
+    background-color: rgb(31, 78, 66);
+    padding-top: 1em;
+}
+
+.main-header h1 {
+    padding-top: 0;
+    line-height: 1;
+}
+
+.main-footer {
+    background-color: rgb(31, 78, 66);
+    color: rgb(134, 167, 204);
+    border-top-width: 2px;
+    border-top: 2px solid #eee;
+    padding: 1em 1.5em;
+    font-size: 0.8em;
+}

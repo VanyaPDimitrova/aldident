@@ -1,0 +1,14 @@
+.main-branding {
+    display: inline-block;
+    width: 30%;
+}
+
+.brand {
+    color: rgb(134, 152, 204);
+    padding: 0.8em 0 0 2em;
+}
+
+.brand i {
+    padding-right: 0.2em;
+}
+

@@ -1,0 +1,27 @@
+.main-section-heading {
+    /* Вариант 1
+    background-position: center;
+    background-size: cover;                         
+    background-image: url(../images/front.jpg); */
+
+    /* Вариант 2 */
+    background-image: linear-gradient(rgba(31, 78, 66, 1),rgba(31, 78, 66, 0.1)), url(../images/front.jpg);
+    background-position: center, center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover, cover;
+}
+
+.main-section-heading .head {
+    color: rgb(134, 152, 204);
+    padding: 9vh 5vw 20vh 5vw;
+    text-align: left;
+}
+
+.head h1 {
+    padding: 0;
+}
+
+.head p {
+    padding-left: 0.5em;
+    padding: 0;
+}

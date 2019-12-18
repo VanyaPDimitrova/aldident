@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap');
+
+
+html{
+    font: 12px/1.5 Arial, Helvetica, sans-serif;  
+}
+
+
+body, form, table, input, textarea, option, select, button {
+    font: inherit; 
+}
+
+p, ul, ol {
+    padding-bottom: 1.5em;
+}
+
+ul, ol {
+    padding-left: 2.5em;
+}
+
+.aldident {
+    font-family: 'Russo One', sans-serif;
+}
+
+.nav,
+.main-footer,
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding-bottom: 0.5em;
+    padding-top: 1.5rem;  
+    font-weight: normal;
+}
+
+h1{ font-size: 2.4em;}
+h2{ font-size: 2.0em;}
+h3{ font-size: 1.8em;}
+h4{ font-size: 1.6em;}
+h5{ font-size: 1.4em;}
+h6{ font-size: 1.2em;}
+
+p+h1,
+p+h2,
+p+h3,
+p+h4,
+p+h5,
+p+h6{
+    padding-top: 0.5em;
+}

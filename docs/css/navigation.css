@@ -1,0 +1,25 @@
+.nav {
+    font-size: 0.8em;
+    text-align: right;
+    padding-top: 0.5em;
+    padding-right: 2em;
+}
+
+.nav ul li {
+    display: inline-block;
+}
+
+.nav a {
+    display: block;
+    padding: 0.3em 0.8em;
+    background-color: rgba(31, 78, 66, 0);
+    color: rgb(134, 152, 204);
+    text-decoration: none;
+    border-radius: 1em;
+    
+}
+
+.nav a:hover {
+    background-color: rgb(134, 152, 204);
+    color: rgb(31, 78, 66);
+}
